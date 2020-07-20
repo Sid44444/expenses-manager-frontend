@@ -1,3 +1,7 @@
+This project was created in a team of three people. I have disconnected the database now but here is a video:
+
+Expenses Manager Demo.mov
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
