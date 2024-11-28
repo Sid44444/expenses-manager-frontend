@@ -1,4 +1,9 @@
-This project was created in a team of three people. I have disconnected the database now but here are some pictures:
+This project was created in a team of three people as a concluding project to a course where we learnt programming concepts. I have disconnected the database now but here are some pictures and a video:
+[Expenses Manager Demo.mov.zip](https://github.com/user-attachments/files/17951936/Expenses.Manager.Demo.mov.zip)
+
+We decided, as a team, to concentrate on functionality, knowing we could improve the UI at a later date. The video above shows the app as it was presented.
+
+[Presentation1 Expenses Manager1.pptx](https://github.com/user-attachments/files/17951974/Presentation1.Expenses.Manager1.pptx)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
